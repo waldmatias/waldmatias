@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @waldmatias
 - 👀 I’m interested in Software Engineering, Entrepreneurship and Scientific Research (Chemistry + Pharma)
-- 🌱 I’m currently learning RUST & BlockChain (NEAR Protocol)
+- 🦀 Rustacean in the works. 
+- 🌱 Deep-diving into NEAR Protocol... but following closely Stellar and IOTA. 
 - 💞️ I’m looking to collaborate on Blockchain, Distributed computing projects and CADD (computer aided drug design). 
 
 <!---
