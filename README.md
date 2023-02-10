@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @waldmatias
 - 👀 I’m interested in Software Engineering, Entrepreneurship and Scientific Research (Chemistry + Pharma).
 - 🦀 Rustacean.
-- 🌱 Deep-diving into NEAR Protocol... but following closely Stellar and IOTA... and not so closely, Polkadot and COSMOS.
-- 👀 Keeping a watchful eye on zk-tech development.
+- 🌱 Deep-diving into NEAR Protocol and Stellar/Soroban... and keeping an eye out on Polkadot, COSMOS and Radix.
+- 👀 Also keeping a watchful eye on zk-tech development.
 - 💞️ I’m looking to collaborate on Blockchain and/or Distributed computing projects and CADD (computer aided drug design). 
 
 <!---
